@@ -1,16 +1,11 @@
-# widget_lesson
+Widgets:
+- RangeSlider(),
+- Stepper(),
+- RichText(),
+- TimeOfDay(),
+- Visibility().
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![studio64_ammJPFoYTF](https://user-images.githubusercontent.com/94138023/230077746-4d7e10e9-e7fb-433c-b534-960d13af8498.png)
+![studio64_HOTTGwrUms](https://user-images.githubusercontent.com/94138023/230077753-0ba80684-ca7a-44f7-97b4-b55922006713.png)
+![studio64_DbCXQugwwF](https://user-images.githubusercontent.com/94138023/230077762-a86f5175-d8fc-40a5-80ca-7df7db4ebfcd.png)
